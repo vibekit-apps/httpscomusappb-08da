@@ -1,7 +1,7 @@
 # Agent guide
 
 App: **httpscomusappb-08da** at https://httpscomusappb-08da.vibekit.bot
-Repo: template/dashboard
+Repo: vibekit-apps/httpscomusappb-08da
 
 ## NEVER (breaks the product)
 - **NEVER point the user at localhost / `npm start`** — only the live URL above. They have no terminal. "Download this?" → open the URL on a phone → Share → **Add to Home Screen**.
